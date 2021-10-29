@@ -30,7 +30,7 @@ def decrement(number):
     Answer = Nummer1 + 1
     print (str(number) ,"+", str(1) ,"=", str(Answer))
 decrement(Nummer1)
-
+#de min 1 functie
 def decrement(number):
     Answer = Nummer1 - 1
     print (str(number) ,"-", str(1) ,"=", str(Answer))
