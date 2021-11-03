@@ -1,7 +1,8 @@
 Nummer1 = 0
 Nummer2 = 1
-Doorgaan = 'doorgaan'
+
 def FunctieSom(Getal1,Getal2):
+    Doorgaan = 'doorgaan'
     while Doorgaan == 'doorgaan':
         Getal2 = Getal1 + Getal2
         Getal1 = Getal1 + Getal2

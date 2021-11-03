@@ -9,5 +9,6 @@ while Opnieuw == "doorgaan":
     else:
         def GebruikerNaam(x,y):
             print ("Hallo", x , "je leeftijd is",y, "jaar")
+        
 
         GebruikerNaam(Naam,Leeftijd)
